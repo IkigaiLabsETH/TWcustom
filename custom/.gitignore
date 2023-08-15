@@ -8,3 +8,7 @@ typechain-types
 #Hardhat files
 cache*
 artifacts*
+
+__pycache__
+out/
+.DS_STORE
